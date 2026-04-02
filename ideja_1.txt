@@ -1,17 +1,36 @@
 Kāds varētu būt projekta nosaukums?
 
+- FolderAutoBackup
+
+
 
 Ko projekts dara vienā teikumā?
+
+- Automātiski veido izvēlēto mapju rezerves kopijas ar datuma un laika atzīmi nosaukumā.
+
 
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
 
+- Tas ir produktivitātes un datu drošības rīks, novērš datu zudumu un atvieglo manuālu backup veidošanu.
+
+
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
+
+- Studenti, programmētāji, dizaineri un jebkurš, kurš strādā ar failiem.
+
 
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
 
+- Vienkārša GUI (vai sākumā konsoles aplikācija ar konfigurācijas failu).
+
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
 
+- Mapju izvēle backupam
+- Automātiska backup izveide pēc grafika (piemēram, katru dienu)
+- Mapes nosaukuma ģenerēšana ar datumu un laiku
+- Backup vietas izvēle (локальный диск / облако)
+- Veco backupu automātiska dzēšana (piem., saglabāt pēdējos 10)
