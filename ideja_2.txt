@@ -1,17 +1,37 @@
 Kāds varētu būt projekta nosaukums?
 
+- ScreenTranslate Hotkey
+
+
 
 Ko projekts dara vienā teikumā?
+
+- Ar vienu taustiņu kombināciju uzņem ekrāna attēlu un uzreiz to pārtulko.
+
 
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
 
+- Produktivitātes rīks, novērš nepieciešamību manuāli kopēt tekstu vai izmantot vairākas aplikācijas tulkošanai.
+
+
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
+
+- Studenti, spēlētāji, cilvēki, kas lasa ārzemju saturu vai strādā ar citām valodām.
+
 
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
 
+- Fona aplikācija + hotkey (piemēram, Alt + T), rezultāts popup logā.
+
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
+
+- Ekrānuzņēmuma uzņemšana ar hotkey
+- Teksta atpazīšana (OCR)
+- Automātiska tulkošana
+- Tulkojuma attēlošana popup logā
+- Valodas automātiska noteikšana
 
