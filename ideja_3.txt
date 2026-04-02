@@ -1,17 +1,37 @@
 Kāds varētu būt projekta nosaukums?
 
+- SmartBirthday Sync
+
+
 
 Ko projekts dara vienā teikumā?
+
+- Sinhronizē kontaktu dzimšanas dienas ar kalendāru un izveido atgādinājumus.
 
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
 
+- Produktivitātes / personīgās organizācijas rīks, palīdz neaizmirst svarīgus datumus.
+
+
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
+
+- Ikviens viedtālruņu lietotājs, īpaši aizņemti cilvēki.
+
 
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
 
+- Mobilā lietotne vai integrācija ar esošo kalendāru (Google Calendar / Apple Calendar).
+
+
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
+
+- Kontaktu importēšana ar dzimšanas dienām
+- Automātiska ierakstu izveide kalendārā
+- Atgādinājumi (piemēram, 7 dienas iepriekš)
+- Sinhronizācija ar kalendāra aplikāciju
+- Iespēja rediģēt vai izslēgt konkrētus atgādinājumus
 
