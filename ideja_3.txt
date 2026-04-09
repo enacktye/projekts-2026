@@ -9,6 +9,7 @@ Ko projekts dara vienā teikumā?
 - Sinhronizē kontaktu dzimšanas dienas ar kalendāru un izveido atgādinājumus.
 
 
+
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
 
 - Produktivitātes / personīgās organizācijas rīks, palīdz neaizmirst svarīgus datumus.
@@ -35,3 +36,20 @@ Kādas ir 3–5 galvenās funkcijas (must-have)?
 - Sinhronizācija ar kalendāra aplikāciju
 - Iespēja rediģēt vai izslēgt konkrētus atgādinājumus
 
+
+
+Funkcionālās prasības
+
+1) Programma izgūst datus no lietotāja kontaktiem.
+2) Programma pievieno notikumus lietotāja kalendāram.
+3) Programma nosauc notikumu kontaktpersonas vārdā, kuras dzimšanas diena ir vēlamajā datumā.
+4) Programma nosūta lietotājam paziņojumu par gaidāmo dzimšanas dienu.
+5) Lietotājs var rediģēt vai atspējot noteiktus atgādinājumus.
+
+
+
+Nefunkcionālās prasības
+
+1) Precizitāte — programma nejauc datumus un vārdus.
+2) Savlaicīgums — programma nosūta lietotājam atgādinājumu tieši 7 dienas iepriekš.
+3) Atbilstība — programmai regulāri jāveic sinhronizācija ar kontaktiem un jāpievieno jauni datumi vai jāmaina vecie.
