@@ -53,3 +53,17 @@ Nefunkcionālās prasības
 1) Ātrums — automātiskā tulkošana notiek acumirklī no brīža, kad lietotājs nospiež vēlamo taustiņu kombināciju.
 2) Precizitāte — automātiskā tulkošana ņem vērā kontekstu.
 3) Stabilitāte — programma automātiski nemaina mērķa valodu.
+
+
+
+Ideju vertēšana (1 — grūti, 5 — viegli)
+
+- Cik ļoti mani aizrauj šī tēma? (5)
+
+- Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (4)
+
+- Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā? (5)
+
+- Vai šī programma atbilst visiem vērtēšanas kritērijiem? (5)
+
+- Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam? (5)
