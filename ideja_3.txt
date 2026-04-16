@@ -53,3 +53,17 @@ Nefunkcionālās prasības
 1) Precizitāte — programma nejauc datumus un vārdus.
 2) Savlaicīgums — programma nosūta lietotājam atgādinājumu tieši 7 dienas iepriekš.
 3) Atbilstība — programmai regulāri jāveic sinhronizācija ar kontaktiem un jāpievieno jauni datumi vai jāmaina vecie.
+
+
+
+Ideju vertēšana (1 — grūti, 5 — viegli)
+
+- Cik ļoti mani aizrauj šī tēma? (3)
+
+- Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (2)
+
+- Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā? (5)
+
+- Vai šī programma atbilst visiem vērtēšanas kritērijiem? (5)
+
+- Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam? (5)
