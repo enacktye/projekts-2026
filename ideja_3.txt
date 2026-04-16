@@ -56,7 +56,7 @@ Nefunkcionālās prasības
 
 
 
-Ideju vertēšana (1 — grūti, 5 — viegli)
+Ideju vertēšana (no 1 līdz 5, kur 1 - neatbilst, 5 - pilnība atbilst.)
 
 - Cik ļoti mani aizrauj šī tēma? (3)
 
